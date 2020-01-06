@@ -5,7 +5,7 @@ eureka:
 
 spring:
   profiles: adjective
-    words: reasonable,leaky,suspicious,ordinary,unlikely
+words: reasonable,leaky,suspicious,ordinary,unlikely
     
 lucky-word:
   Irish,Rabbit's Foot,Serendipity sameer
