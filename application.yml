@@ -9,6 +9,4 @@ lucky-word:
   Irish,Rabbit's Foot,Serendipity sameer
   
   
-spring:
-  profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+
