@@ -6,7 +6,7 @@ eureka:
 
     
 lucky-word:
-  Irish,Rabbit's Foot,Serendipity sameer
+  Irish,Rabbit's Foot,Serendipity sameer testing for config server
   
   
 
