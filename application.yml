@@ -3,9 +3,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
 
-spring:
-  profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+
     
 lucky-word:
   Irish,Rabbit's Foot,Serendipity sameer
